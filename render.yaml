@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: tck-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: 8123657321:AAFn-Kys2iGiklOr-pQp8_Lj3hVxolFGenE
+        sync: false
