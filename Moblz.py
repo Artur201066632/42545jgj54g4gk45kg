@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # ================== ENV ==================
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8123657321:AAFn-Kys2iGiklOr-pQp8_Lj3hVxolFGenE")
 if not BOT_TOKEN:
     raise ValueError("BOT_TOKEN не знайдено в змінних середовища")
 
@@ -1269,4 +1269,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         logger.info("Бот зупинено користувачем")
     except Exception as e:
+
         logger.error(f"Критична помилка: {e}")
