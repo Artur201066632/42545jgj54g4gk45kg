@@ -1,0 +1,840 @@
+{
+  "5224812034": [
+    {
+      "timestamp": "2026-01-28 19:15:04",
+      "amount": 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
+      "type": "add",
+      "reason": "Без причини",
+      "executor": 5224812034,
+      "balance_after": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000999
+    },
+    {
+      "timestamp": "2026-01-28 19:23:52",
+      "amount": 200,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 100)",
+      "executor": null,
+      "balance_after": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001199
+    },
+    {
+      "timestamp": "2026-01-28 19:24:41",
+      "amount": 200,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 100)",
+      "executor": null,
+      "balance_after": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001399
+    },
+    {
+      "timestamp": "2026-01-28 20:02:35",
+      "amount": 648,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 324)",
+      "executor": null,
+      "balance_after": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002047
+    }
+  ],
+  "7589599930": [
+    {
+      "timestamp": "2026-01-28 20:25:14",
+      "amount": 5000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 91791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:16",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 101791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:17",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 111791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:37",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 121791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:39",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 131791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:40",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 141791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:41",
+      "amount": 5000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 136791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:43",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 146791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:44",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 156791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:46",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 166791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:47",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 176791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:49",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 186791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:50",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 196791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:52",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 206791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:53",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 216791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:55",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 226791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:56",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 236791064
+    },
+    {
+      "timestamp": "2026-01-28 20:25:58",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 246791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:04",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:13",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 446791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:15",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 546791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:18",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 646791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:19",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 746791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:21",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:22",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 946791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:24",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 1046791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:26",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 1146791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:27",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 1246791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:29",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 1346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:39",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 2346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:44",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 3346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:46",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 4346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:48",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 5346791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:51",
+      "amount": 500000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 4846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:53",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 5846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:54",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 6846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:56",
+      "amount": 1000000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 500,000,000)",
+      "executor": null,
+      "balance_after": 7846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:26:59",
+      "amount": 5000000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 5,000,000,000)",
+      "executor": null,
+      "balance_after": 2846791064
+    },
+    {
+      "timestamp": "2026-01-28 20:27:06",
+      "amount": 50000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 2796791064
+    },
+    {
+      "timestamp": "2026-01-28 20:27:09",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 2896791064
+    },
+    {
+      "timestamp": "2026-01-28 20:27:12",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 2996791064
+    },
+    {
+      "timestamp": "2026-01-28 20:27:13",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3096791064
+    },
+    {
+      "timestamp": "2026-01-28 20:27:15",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3196791064
+    },
+    {
+      "timestamp": "2026-01-28 20:31:23",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3296791064
+    },
+    {
+      "timestamp": "2026-01-28 20:31:23",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3396791064
+    },
+    {
+      "timestamp": "2026-01-28 20:31:23",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3496791064
+    },
+    {
+      "timestamp": "2026-01-28 20:31:23",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3596791064
+    },
+    {
+      "timestamp": "2026-01-28 20:31:23",
+      "amount": 100000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3696791064
+    },
+    {
+      "timestamp": "2026-01-28 20:52:30",
+      "amount": 50000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3646791064
+    },
+    {
+      "timestamp": "2026-01-28 20:52:34",
+      "amount": 50000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 50,000,000)",
+      "executor": null,
+      "balance_after": 3596791064
+    }
+  ],
+  "1222906542": [
+    {
+      "timestamp": "2026-01-28 20:05:06",
+      "amount": 50000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 50,000)",
+      "executor": null,
+      "balance_after": 38888
+    },
+    {
+      "timestamp": "2026-01-28 20:05:13",
+      "amount": 60000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 30,000)",
+      "executor": null,
+      "balance_after": 98888
+    },
+    {
+      "timestamp": "2026-01-28 20:06:20",
+      "amount": 60000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 30,000)",
+      "executor": null,
+      "balance_after": 158888
+    },
+    {
+      "timestamp": "2026-01-28 20:06:27",
+      "amount": 30000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 30,000)",
+      "executor": null,
+      "balance_after": 128888
+    },
+    {
+      "timestamp": "2026-01-28 20:06:33",
+      "amount": 60000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 30,000)",
+      "executor": null,
+      "balance_after": 188888
+    },
+    {
+      "timestamp": "2026-01-28 20:06:41",
+      "amount": 60000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 30,000)",
+      "executor": null,
+      "balance_after": 248888
+    },
+    {
+      "timestamp": "2026-01-28 20:07:07",
+      "amount": 80000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 40,000)",
+      "executor": null,
+      "balance_after": 328888
+    },
+    {
+      "timestamp": "2026-01-28 20:07:14",
+      "amount": 100000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000)",
+      "executor": null,
+      "balance_after": 428888
+    },
+    {
+      "timestamp": "2026-01-28 20:07:20",
+      "amount": 100000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 50,000)",
+      "executor": null,
+      "balance_after": 528888
+    },
+    {
+      "timestamp": "2026-01-28 20:07:25",
+      "amount": 120000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 60,000)",
+      "executor": null,
+      "balance_after": 648888
+    },
+    {
+      "timestamp": "2026-01-28 20:07:53",
+      "amount": 140000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 70,000)",
+      "executor": null,
+      "balance_after": 788888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:03",
+      "amount": 160000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 80,000)",
+      "executor": null,
+      "balance_after": 948888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:09",
+      "amount": 180000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 90,000)",
+      "executor": null,
+      "balance_after": 1128888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:20",
+      "amount": 400000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 200,000)",
+      "executor": null,
+      "balance_after": 1528888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:31",
+      "amount": 100000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 100,000)",
+      "executor": null,
+      "balance_after": 1428888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:42",
+      "amount": 300000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 300,000)",
+      "executor": null,
+      "balance_after": 1128888
+    },
+    {
+      "timestamp": "2026-01-28 20:08:55",
+      "amount": 400000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 200,000)",
+      "executor": null,
+      "balance_after": 1528888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:02",
+      "amount": 600000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 300,000)",
+      "executor": null,
+      "balance_after": 2128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:12",
+      "amount": 2000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 1,000,000)",
+      "executor": null,
+      "balance_after": 4128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:18",
+      "amount": 2000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 1,000,000)",
+      "executor": null,
+      "balance_after": 6128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:28",
+      "amount": 1000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 1,000,000)",
+      "executor": null,
+      "balance_after": 5128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:33",
+      "amount": 2000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 1,000,000)",
+      "executor": null,
+      "balance_after": 7128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:38",
+      "amount": 4000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 2,000,000)",
+      "executor": null,
+      "balance_after": 11128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:47",
+      "amount": 6000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 3,000,000)",
+      "executor": null,
+      "balance_after": 17128888
+    },
+    {
+      "timestamp": "2026-01-28 20:09:58",
+      "amount": 8000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 4,000,000)",
+      "executor": null,
+      "balance_after": 25128888
+    },
+    {
+      "timestamp": "2026-01-28 20:10:04",
+      "amount": 10000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 35128888
+    },
+    {
+      "timestamp": "2026-01-28 20:10:11",
+      "amount": 20000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 10,000,000)",
+      "executor": null,
+      "balance_after": 55128888
+    },
+    {
+      "timestamp": "2026-01-28 20:10:18",
+      "amount": 30000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 15,000,000)",
+      "executor": null,
+      "balance_after": 85128888
+    },
+    {
+      "timestamp": "2026-01-28 20:10:26",
+      "amount": 40000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 20,000,000)",
+      "executor": null,
+      "balance_after": 125128888
+    },
+    {
+      "timestamp": "2026-01-28 20:10:48",
+      "amount": 20000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 10,000,000)",
+      "executor": null,
+      "balance_after": 145128888
+    },
+    {
+      "timestamp": "2026-01-28 20:11:03",
+      "amount": 200000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 100,000,000)",
+      "executor": null,
+      "balance_after": 345128888
+    },
+    {
+      "timestamp": "2026-01-28 20:11:14",
+      "amount": 100000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 100,000,000)",
+      "executor": null,
+      "balance_after": 245128888
+    },
+    {
+      "timestamp": "2026-01-28 20:11:20",
+      "amount": 100000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 100,000,000)",
+      "executor": null,
+      "balance_after": 145128888
+    },
+    {
+      "timestamp": "2026-01-28 20:11:31",
+      "amount": 20000000,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 10,000,000)",
+      "executor": null,
+      "balance_after": 165128888
+    },
+    {
+      "timestamp": "2026-01-28 20:12:09",
+      "amount": 5000000,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 5,000,000)",
+      "executor": null,
+      "balance_after": 160128888
+    },
+    {
+      "timestamp": "2026-01-28 20:13:05",
+      "amount": 320245776,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 160,122,888)",
+      "executor": null,
+      "balance_after": 480374664
+    },
+    {
+      "timestamp": "2026-01-28 20:13:19",
+      "amount": 320245776,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 160,122,888)",
+      "executor": null,
+      "balance_after": 800620440
+    },
+    {
+      "timestamp": "2026-01-28 20:13:35",
+      "amount": 640491552,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 320,245,776)",
+      "executor": null,
+      "balance_after": 1441111992
+    },
+    {
+      "timestamp": "2026-01-28 20:13:54",
+      "amount": 1481001100,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 740,500,550)",
+      "executor": null,
+      "balance_after": 2922113092
+    },
+    {
+      "timestamp": "2026-01-28 20:14:05",
+      "amount": 2962002200,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 1,481,001,100)",
+      "executor": null,
+      "balance_after": 5884115292
+    },
+    {
+      "timestamp": "2026-01-28 20:14:15",
+      "amount": 5924004400,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 2,962,002,200)",
+      "executor": null,
+      "balance_after": 11808119692
+    },
+    {
+      "timestamp": "2026-01-28 20:14:29",
+      "amount": 11848008800,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 5,924,004,400)",
+      "executor": null,
+      "balance_after": 23656128492
+    },
+    {
+      "timestamp": "2026-01-28 20:15:57",
+      "amount": 23696017600,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 11,848,008,800)",
+      "executor": null,
+      "balance_after": 47352146092
+    },
+    {
+      "timestamp": "2026-01-28 20:16:09",
+      "amount": 47392035200,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 23,696,017,600)",
+      "executor": null,
+      "balance_after": 94744181292
+    },
+    {
+      "timestamp": "2026-01-28 20:17:19",
+      "amount": 189488362584,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 94,744,181,292)",
+      "executor": null,
+      "balance_after": 284232543876
+    },
+    {
+      "timestamp": "2026-01-28 20:18:24",
+      "amount": 378976725168,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 189,488,362,584)",
+      "executor": null,
+      "balance_after": 663209269044
+    },
+    {
+      "timestamp": "2026-01-28 20:18:38",
+      "amount": 757953450336,
+      "type": "casino_win",
+      "reason": "Виграш у казино (ставка: 378,976,725,168)",
+      "executor": null,
+      "balance_after": 1421162719380
+    },
+    {
+      "timestamp": "2026-01-28 20:20:00",
+      "amount": 912234456789,
+      "type": "casino_lose",
+      "reason": "Програш у казино (ставка: 912,234,456,789)",
+      "executor": null,
+      "balance_after": 508928262591
+    },
+    {
+      "timestamp": "2026-01-28 20:32:23",
+      "amount": 1,
+      "type": "add",
+      "reason": "мотивація",
+      "executor": 5224812034,
+      "balance_after": 508928262592
+    },
+    {
+      "timestamp": "2026-01-28 20:37:04",
+      "amount": 1,
+      "type": "add",
+      "reason": "рубль",
+      "executor": 5224812034,
+      "balance_after": 508928262593
+    }
+  ]
+}
